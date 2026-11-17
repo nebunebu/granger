@@ -21,10 +21,6 @@ set off the fashion. The first half of the job is harvesting: taking the
 pictures out of their source volumes. This tool does that half digitally and
 without damaging the book, hence *granger*.
 
-Earlier candidates: `unplate` (but "plate" implies a full-page image; figures
-come in any size) and `ungranger` (but un-grangerizing undoes the illustration
-of a book, the opposite of sourcing the pictures).
-
 ## Usage
 
 ```sh
