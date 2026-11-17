@@ -1,0 +1,7 @@
+# Source books and extraction output never go into git (this also keeps
+# `nix` from copying gigabytes of books into the store).
+/books/
+/out/
+/result
+__pycache__/
+*.egg-info/
